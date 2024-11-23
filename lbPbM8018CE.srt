@@ -1,0 +1,105 @@
+    
+            {
+                0.0,5.0
+                So we've done the Dicks Hall Pike maneuver and let's assume that we triggered symptoms
+            },
+            {
+                5.0,7.56
+                when we had the patient positioned to the right.
+            },
+            {
+                7.56,12.28
+                So now we're going to move into the Epley maneuver to actually treat the symptoms.
+            },
+            {
+                12.28,14.84
+                So what you're going to do is you're going to take the patient and you're going to turn
+            },
+            {
+                14.84,19.56
+                their head 45 degrees towards the side that was triggered, 20 degrees extension, you'll
+            },
+            {
+                19.56,22.48
+                have them hold your arm again.
+            },
+            {
+                22.48,26.48
+                And the difference between the Dicks Hall Pike and the Epley maneuver is a couple things.
+            },
+            {
+                26.48,29.4
+                We're actually gonna bring them down much more quickly
+            },
+            {
+                29.4,32.36
+                to help jar those crystals loose out of the canal.
+            },
+            {
+                32.36,34.48
+                The other important piece of information
+            },
+            {
+                34.48,37.04
+                is we want to be able to maintain that position
+            },
+            {
+                37.04,40.0
+                for at least 30 seconds or until the symptoms
+            },
+            {
+                40.0,41.08
+                start to dissipate.
+            },
+            {
+                41.08,41.92
+                So on the count of three,
+            },
+            {
+                41.92,43.6
+                we're gonna bring you down really quick.
+            },
+            {
+                43.6,44.88
+                One, two, three.
+            },
+            {
+                43.76,53.88
+                start to dissipate. So on the count of three we're going to bring you down really quick. One, two, three. Now with this mistake that therapists make is they will actually maintain
+            },
+            {
+                53.88,58.28
+                the position for 30 seconds but the patient will still have symptoms. You want to make
+            },
+            {
+                58.28,66.24
+                sure that you stay in this position at least 30 seconds. But if after 30 seconds they still have spinning, you want
+            },
+            {
+                66.24,72.08
+                to maintain that position until that starts to go away. And then you're actually the second
+            },
+            {
+                72.08,77.12
+                position is going to be turning their head rapidly to the opposite side on the count
+            },
+            {
+                77.12,88.28
+                of three. One, two, three. And then 30 seconds later, go ahead and bend your right knee and then roll over onto your
+            },
+            {
+                88.28,95.68
+                left side and you'll tilt their head down towards their left shoulder.
+            },
+            {
+                95.68,102.7
+                And 30 seconds later, you'll have them sit up on the edge of the bed and maintain their
+            },
+            {
+                102.7,107.0
+                head tilted towards that left side.
+            },
+            {
+                107.0,110.0
+                And 30 seconds later, they'll come up.
+            }

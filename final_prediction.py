@@ -57,9 +57,9 @@ def predict_question(model, tokenizer, question, device, video_id_to_idx):
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 mapping = load_video_mapping('videoid/video_id_mapping.json')
-num_videos = len(mapping)  # 获取映射的长度即视频数量
+num_videos = len(mapping) 
 model = QuestionToVideoModel(num_videos=num_videos).to(device)
-model.load_state_dict(torch.load('model_epoch_20.pth', map_location=device))  # 加载模型权重
+model.load_state_dict(torch.load('model_epoch_20.pth', map_location=device))  
 question = input("Please enter your question: ")
 video_id = predict_question(model, tokenizer, question, device, mapping)
 print(f"Predicted Video ID: {video_id}")
